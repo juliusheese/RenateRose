@@ -34,8 +34,8 @@ img {
 /* Navbar container */
 .navbar {
   overflow: hidden;
-  background-color: #333;
-  font-family: Arial;
+  background-color: black;
+  font-family: helvetica;
 }
 
 /* Links inside the navbar */
