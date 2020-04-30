@@ -1,0 +1,12 @@
+.jumbotron {
+  background-color: red;
+}
+.jumbotron.Home {
+  background-color: blue;
+}
+.jumbotron.Contact {
+  background-color: green;
+}
+.jumbotron.About {
+  background-color: black;
+}
